@@ -1,4 +1,2 @@
 # Superstore-Sales-Analysis-in-Excel
-Understanding-the-Problem-Sales-Pipeline-Conversion-at-a-SaaS-Startup
-Understand the problem, come up with a hypothesis for low conversions faced by TechnoServe, and analyse the dataset provided to arrive at possible solutions to increase it. The sales pipeline conversion percentage at TechnoServe (a tech SaaS startup) has dropped by 35% at the end of last fiscal (FY 2017-18) to 25% at present.
-
+The project involves creating an interactive Excel sales dashboard. Converting a dataset into an Excel table and formatting columns. Using PivotTables to generate insights such as total sales by year and profit by category. Inserting various charts based on these PivotTables to visually represent the data. Adding slicers to enable filtering of charts and tables, enhancing interactivity. Refining the dashboard layout, ensuring all elements are clearly labeled and the slicers work as intended, providing a comprehensive tool for analyzing sales data
