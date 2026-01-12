@@ -1,2 +1,2 @@
-# Superstore-Sales-Analysis-in-Excel
+Superstore Sales Analysis – Corporate Segment (Excel & Data Visualization)
 The project involves creating an interactive Excel sales dashboard. Converting a dataset into an Excel table and formatting columns. Using PivotTables to generate insights such as total sales by year and profit by category. Inserting various charts based on these PivotTables to visually represent the data. Adding slicers to enable filtering of charts and tables, enhancing interactivity. Refining the dashboard layout, ensuring all elements are clearly labeled and the slicers work as intended, providing a comprehensive tool for analyzing sales data
